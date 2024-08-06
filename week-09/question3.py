@@ -1,6 +1,5 @@
 first_list = []
 second_list = []
-merged_list = []
 
 print("Enter first list: ")
 for i in range(5):
